@@ -27,3 +27,7 @@ assert "000.000.000-00" not in enviado
 **Conclusão:** política e contrato descrevem o que deveria acontecer. O teste mostra o que acontece. Um protocolo jurídico útil precisa conectar os dois.
 
 *Código fictício para estudo; não é uma solução de pseudonimização nem um sistema clínico.*
+
+## Teste reproduzível
+
+Execute `python exemplo.py`. A saída `Identificador restante? True` mostra que remover apenas o nome não elimina o identificador fictício. O teste não certifica anonimização nem avalia a qualidade clínica de um modelo.
